@@ -1,0 +1,5 @@
+Dufe is a PHP framework particulaly for individual demand of my/own project.
+
+Dufe是为推闻（tuiwen.com)专门开发的实验式PHP框架，它参考并简化了zendframe的底层设计（library库），同时将组件模块按component-module-plugin来划分，使每个mvc组件的开发能更解耦、独立。Dufe包含一个使用jQuery编写的路由插件，使用该插件，能轻松实现通过url的#锚来加载网页的功能(如 http://example.com/#!/your_component)，更多的使用方法请参考后续的wiki
+
+Dufe尚存很多不足并待完善的功能，目前完全是按个人项目所定制，未来会在生产环境中逐步改进，如你所见，Dufe的全名是Dumpest Framework Ever.
