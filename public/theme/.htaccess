@@ -1,0 +1,5 @@
+RewriteEngine On
+<FilesMatch "\.(php|phtml|html)$">
+Order Deny,Allow
+Deny from all
+</FilesMatch>
