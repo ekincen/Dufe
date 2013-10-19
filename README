@@ -1,5 +1,7 @@
 Dufe is a PHP framework, particularly for individual demand of my/own project.
 
-Dufe是为推闻（tuiwen.com)专门开发的实验式PHP框架，它参考并简化了zendframe的底层设计（library库），同时将组件模块按component-module-plugin来划分，使每个mvc组件的开发能更解耦、独立。Dufe包含一个使用jQuery编写的路由插件，使用该插件，能轻松实现通过url的#锚来加载网页的功能(如 http://example.com/#!/your_component )，更多的使用方法请参考后续的wiki
+Dufe锟斤拷为锟斤拷锟脚ｏ拷tuiwen.com)专锟脚匡拷锟斤拷锟斤拷实锟斤拷式PHP锟斤拷锟杰ｏ拷锟斤拷锟轿匡拷锟斤拷锟斤拷锟斤拷锟斤拷zendframe锟侥底诧拷锟斤拷锟狡ｏ拷library锟解）锟斤拷同时锟斤拷锟斤拷锟斤拷模锟介按component-module-plugin锟斤拷锟斤拷锟街ｏ拷使每锟斤拷mvc锟斤拷锟斤拷锟侥匡拷锟斤拷锟杰革拷锟斤拷锟筋、锟斤拷锟斤拷锟斤拷Dufe锟斤拷锟斤拷一锟斤拷使锟斤拷jQuery锟斤拷写锟斤拷路锟缴诧拷锟斤拷锟斤拷使锟矫该诧拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷实锟斤拷通锟斤拷url锟斤拷#锚锟斤拷锟斤拷锟斤拷锟斤拷页锟侥癸拷锟斤拷(锟斤拷 http://example.com/#!/your_component )锟斤拷锟斤拷锟斤拷锟斤拷使锟矫凤拷锟斤拷锟斤拷锟轿匡拷锟斤拷锟斤拷锟斤拷wiki
 
-Dufe尚存很多不足并待完善的功能，目前完全是按个人项目所定制，未来会在生产环境中逐步改进，如你所见，Dufe的全名是Dumpest framework ever.
+Dufe锟叫达拷锟杰多不锟姐并锟斤拷锟斤拷锟狡的癸拷锟杰ｏ拷目前锟斤拷全锟角帮拷锟斤拷锟斤拷锟斤拷目锟斤拷锟斤拷锟狡ｏ拷未锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟金步改斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷Dufe锟斤拷全锟斤拷锟斤拷Dumpest framework ever.
+
+By yijiancen
